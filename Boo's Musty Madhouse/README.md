@@ -1,4 +1,5 @@
 Boo's Musty Madhouse - Version History
 
-Version 1.0 
+Version 1.0
+
 Playable; Completable.
