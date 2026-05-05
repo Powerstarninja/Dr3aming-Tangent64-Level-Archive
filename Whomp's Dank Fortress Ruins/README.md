@@ -4,7 +4,7 @@ Version 1.0
 
 Released alongside "Whomp's Fiery Fortress Ruins" as the vanilla variation.
 
-Version 1.01
+Version 1.01 (definitive version)
 
 Added (5) Stars; Total (46 -> 51)
 Increased coin star count to (160)
