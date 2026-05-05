@@ -1,4 +1,4 @@
-Whomp's Danmp, Dank Fortress - Version History
+Bowser's Mega Death Church - Version History
 
 Version 1.0 
 Playable; Completable.
